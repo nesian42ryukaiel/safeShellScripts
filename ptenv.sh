@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "\r\nEnvironmental Variables:\r\n"
+echo "My home directory is    | $HOME"
+echo "My executable path is   | $PATH"
+echo "Current language is     | $LANG"
+echo "Current directory is    | $PWD"
+echo "Login Terminal type is  | $TERM"
+echo "BASH executable path is | $SHELL"
+echo "Logged in User name is  | $USER"
+echo "  ...second try on name | $USERNAME"
+echo "Current user's group is | $GROUP"
+echo "Current display name is | $DISPLAY"
+echo "Terminal Column * Line  | $COLUMNS * $LINES"
