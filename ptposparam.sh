@@ -8,8 +8,8 @@ echo "\$@: $@"
 echo "Parameter count (\$#) excepth 0th: $#"
 echo "Differnce between \$* and \$@ below:"
 for v1 in "$*"
-  do echo "var 1: $v1"
+  do echo "  asterisk  (*) : $v1"
 done
 for v2 in "$@"
-  do echo "var 2: $v2"
+  do echo "  at symbol (@) : $v2"
 done
