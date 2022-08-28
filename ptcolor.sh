@@ -1,0 +1,10 @@
+#!/bin/bash
+echo ""
+echo -n "\033[40;91mR\033[0m"
+echo -n "\033[40;93mA\033[0m"
+echo -n "\033[40;92mI\033[0m"
+echo -n "\033[40;96mN\033[0m"
+echo -n "\033[40;94mB\033[0m"
+echo -n "\033[40;95mO\033[0m"
+echo -n "\033[40;91mW\033[0m"
+echo " \033[30;107mDISPLAY\033[0m\r\n"
